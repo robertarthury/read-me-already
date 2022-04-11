@@ -2,11 +2,11 @@
   
 # Read-Me-Already
 
-  It creates a README file by asking information about the project and creates a markdown formatted file for you.
+  Prompts the user to create a proper Readme file.
 
   [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-  [A deployed version can be viewed here.](https://robertarthury.github.io/read-me-already/)
+  [A deployed version can be viewed here.](robertarthury.github.io\read-me-already)
   
 ---
 ## Contents
@@ -25,7 +25,7 @@
 ---
 ## About
 
-  Every project need a proper README file to help give it context and explain how to use it.
+  README files are important on Github. the provide instruction and context for applications.
 
 ---
 
@@ -38,14 +38,9 @@
   
   
 ---
-## Visuals:
-
-  link to screencastfly: https://drive.google.com/file/d/1TzXpkjWta6QUaZf2xX4pwgEx6i20t0yh/view
-
----
 
 ## Installation:
-  Inferer was used for this application and needs to be installed before running the application.
+  inferer was used for this application and will need to be installed.
 
   To clone the repo:
   
@@ -55,9 +50,7 @@
 
 ## License
   License used for this project - GNU AGPLv3
-  * For more information on license types, please reference this website
-  for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
-
+ 
 ---
 
 ## Contributing:
